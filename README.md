@@ -11,6 +11,11 @@ The Mini Log Analytics Platform is a production-ready system designed to simulat
 
 This project demonstrates how application-level events can be transformed into measurable metrics, monitored in real time, and visualized using modern DevOps and MLOps practices.
 
+<img width="1237" height="958" alt="Screenshot 2026-03-30 194528" src="https://github.com/user-attachments/assets/cf5d6e95-837b-4a86-a771-9403147355ba" />
+
+<img width="1229" height="961" alt="Screenshot 2026-03-30 194547" src="https://github.com/user-attachments/assets/a9319976-dfb2-4f55-8f4e-59851b9fd5a5" />
+
+
 ---
 
 ## Problem Statement
